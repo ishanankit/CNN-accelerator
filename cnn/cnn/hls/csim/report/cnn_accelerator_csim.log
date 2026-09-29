@@ -1,9 +1,0 @@
-INFO: [SIM 2] *************** CSIM start ***************
-INFO: [SIM 4] CSIM will launch CLANG as the compiler.
-make: 'csim.exe' is up to date.
-Starting CNN Accelerator Test...
-Output samples:
-32 24 16 8 0 -8 -16 -24 32 24 
-Test completed.
-INFO: [SIM 1] CSim done with 0 errors.
-INFO: [SIM 3] *************** CSIM finish ***************

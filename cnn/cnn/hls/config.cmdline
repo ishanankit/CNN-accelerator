@@ -1,3 +1,0 @@
-relativeroot=C:/Users/ishan/ECT_110_vitis/cnn
-original_argv=--mode hls --package --config C:\Users\ishan\ECT_110_vitis\cnn\hls_config.cfg --work_dir cnn 
-
