@@ -1,3 +1,0 @@
-C:/Users/ishan/ECT_110_vitis/cordicalpha/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
-C:/Users/ishan/ECT_110_vitis/cordicalpha/zynq_fsbl/build/CMakeFiles/edit_cache.dir
-C:/Users/ishan/ECT_110_vitis/cordicalpha/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
